@@ -1,0 +1,10 @@
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Hasil Kelulusan Mahasiswa\bin\Debug\Hasil Kelulusan Mahasiswa.exe.config
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Hasil Kelulusan Mahasiswa\bin\Debug\Hasil Kelulusan Mahasiswa.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Hasil Kelulusan Mahasiswa\bin\Debug\Hasil Kelulusan Mahasiswa.pdb
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Hasil Kelulusan Mahasiswa\bin\Debug\Hasil Kelulusan Mahasiswa.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Hasil Kelulusan Mahasiswa\obj\Debug\Hasil_Kelulusan_Mahasiswa.Form1.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Hasil Kelulusan Mahasiswa\obj\Debug\Hasil_Kelulusan_Mahasiswa.Resources.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Hasil Kelulusan Mahasiswa\obj\Debug\Hasil Kelulusan Mahasiswa.vbproj.GenerateResource.Cache
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Hasil Kelulusan Mahasiswa\obj\Debug\Hasil Kelulusan Mahasiswa.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Hasil Kelulusan Mahasiswa\obj\Debug\Hasil Kelulusan Mahasiswa.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Hasil Kelulusan Mahasiswa\obj\Debug\Hasil Kelulusan Mahasiswa.pdb

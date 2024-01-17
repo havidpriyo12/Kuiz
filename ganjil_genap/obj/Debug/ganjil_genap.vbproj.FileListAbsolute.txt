@@ -1,0 +1,10 @@
+C:\Users\havid\OneDrive\Documents\Visual Studio 2008\Projects\2022804073\ganjil_genap\ganjil_genap\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\havid\OneDrive\Documents\Visual Studio 2008\Projects\2022804073\ganjil_genap\ganjil_genap\obj\Debug\ganjil_genap.MainForm.resources
+C:\Users\havid\OneDrive\Documents\Visual Studio 2008\Projects\2022804073\ganjil_genap\ganjil_genap\obj\Debug\ganjil_genap.Resources.resources
+C:\Users\havid\OneDrive\Documents\Visual Studio 2008\Projects\2022804073\ganjil_genap\ganjil_genap\obj\Debug\ganjil_genap.vbproj.GenerateResource.Cache
+C:\Users\havid\OneDrive\Documents\Visual Studio 2008\Projects\2022804073\ganjil_genap\ganjil_genap\bin\Debug\ganjil_genap.exe
+C:\Users\havid\OneDrive\Documents\Visual Studio 2008\Projects\2022804073\ganjil_genap\ganjil_genap\bin\Debug\ganjil_genap.pdb
+C:\Users\havid\OneDrive\Documents\Visual Studio 2008\Projects\2022804073\ganjil_genap\ganjil_genap\bin\Debug\ganjil_genap.xml
+C:\Users\havid\OneDrive\Documents\Visual Studio 2008\Projects\2022804073\ganjil_genap\ganjil_genap\obj\Debug\ganjil_genap.exe
+C:\Users\havid\OneDrive\Documents\Visual Studio 2008\Projects\2022804073\ganjil_genap\ganjil_genap\obj\Debug\ganjil_genap.xml
+C:\Users\havid\OneDrive\Documents\Visual Studio 2008\Projects\2022804073\ganjil_genap\ganjil_genap\obj\Debug\ganjil_genap.pdb
